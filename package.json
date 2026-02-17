@@ -1,0 +1,28 @@
+{
+  "name": "cookie-manager-chrome-extension",
+  "version": "1.0.0",
+  "description": "A powerful, privacy-first Chrome extension for viewing, editing, creating, deleting, exporting, and managing browser cookies.",
+  "author": "Michael Ip <michael@zovo.one>",
+  "license": "MIT",
+  "homepage": "https://github.com/theluckystrike/cookie-manager-chrome-extension",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluckystrike/cookie-manager-chrome-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theluckystrike/cookie-manager-chrome-extension/issues"
+  },
+  "keywords": [
+    "chrome-extension",
+    "cookie-manager",
+    "cookie-editor",
+    "browser-cookies",
+    "cookie-export",
+    "cookie-profiles",
+    "privacy",
+    "web-development",
+    "devtools",
+    "manifest-v3"
+  ],
+  "private": false
+}
