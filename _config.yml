@@ -1,0 +1,8 @@
+title: "Cookie Manager — Free Open Source Chrome Extension"
+description: "View, edit, export, and protect your browser cookies. A modern, open source cookie management tool and EditThisCookie replacement."
+theme: jekyll-theme-cayman
+url: "https://theluckystrike.github.io"
+baseurl: "/cookie-manager-chrome-extension"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
